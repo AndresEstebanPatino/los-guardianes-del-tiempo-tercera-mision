@@ -7,7 +7,7 @@
 <h1> Ordenado los hitos tecnológicos (Década 80) </h1>
 
 
-En los años 80, importantes hitos tecnológicos como la creación de la World Wide Web y los primeros sistemas operativos gráficos están en peligro. Debéis ordenar estos hitos para asegurar que la historia sigue su curso correcto. 
+En los años 80, importantes hitos tecnológicos como la creación de la World Wide Web y los primeros sistemas operativos gráficos están en peligro. Pero hay un pequeño contratiempo: ¡los hitos tecnológicos se han mezclado porque un hacker de los 80, obsesionado con los videojuegos arcade, ha intentado convertir la historia de la tecnología en un nivel de Pac-Man! Ahora, deberéis ordenar los hitos correctamente mientras esquivas fantasmas digitales y coleccionais píldoras de poder. Debéis ordenar estos hitos para asegurar que la historia sigue su curso correcto. 
 
 Prueba: 
 <ul>
