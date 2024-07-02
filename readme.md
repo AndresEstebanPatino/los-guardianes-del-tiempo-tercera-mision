@@ -103,3 +103,5 @@ Recursos:
 }
 
 ```
+
+Pista: Pedagogía activa :)
